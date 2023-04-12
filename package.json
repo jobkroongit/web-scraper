@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "start": "nodemon start index.js"
+    "dev": "open http://localhost:8000/results",
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
